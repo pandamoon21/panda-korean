@@ -1,0 +1,432 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C05441.png" group-title="Korean", Anibox
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=tving&i=C05441&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01582.png" group-title="Korean", JTBC
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=tving&i=C01582&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C15741.png" group-title="Korean", JTBC2
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=tving&i=C15741&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00611.png" group-title="Korean", Livetime
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=tving&i=C00611&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00708.png" group-title="Korean", MBN
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=tving&i=C00708&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00579.png" group-title="Korean", MNET
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=tving&i=C00579&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C07381.png" group-title="Korean", OCN
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=tving&i=C07381&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C04601.png" group-title="Korean", OCN Movies
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=tving&i=C04601&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C07382.png" group-title="Korean", OCN Thrills
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=tving&i=C07382&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00575.png" group-title="Korean", Olive
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=tving&i=C00575&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01581.png" group-title="Korean", TV Chosun
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=tving&i=C01581&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00551.png" group-title="Korean", TVN
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=tving&i=C00551&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01143.png" group-title="Korean", TVN Drama
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=tving&i=C01143&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C01141.png" group-title="Korean", TVN Show
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=tving&i=C01141&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C51258.png" group-title="Korean", TVN Story
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=tving&i=C51258&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1700/C00593.png" group-title="Korean", YTN
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=tving&i=C00593&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", SBS
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S01&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KBS 2TV
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K02&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 현대홈쇼핑
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C4101&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KBS 1TV
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K01&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", TV CHOSUN
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2601&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", SK스토아
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=F2701&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", MBC
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=M01&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", MBN
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2401&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", K SHOPPING
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=F1401&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", MBC 무한도전
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=PM1&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", iHQ 맛있는녀석들
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C5202&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", MBC M
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=M06&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 쇼핑엔티
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C4901&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", YTN
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2101&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", MBC 드라마정주행24 LIVE
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=M16&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 채널A
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2501&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 레전드 시트콤
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S18&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", MBC ON
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=M14&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KBS 사랑과전쟁
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K31&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KBS 주말명작
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K30&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KBS 1박 2일
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K15&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", MBC 나 혼자 산다
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=PM2&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 연합뉴스TV
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=Y01&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", MBC 하이킥24 LIVE
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=M15&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", ANIONE
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C4402&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", MBC Drama
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=M02&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 채널J
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C5501&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KBS 사극
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K29&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 현대홈쇼핑+샵
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C4102&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", SBS Plus
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S03&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", SBS funE
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S04&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", SBS Fil
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S22&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KBS Story
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K09&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", TV동물농장
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S15&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 스브스갓드
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S20&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 시네마천국
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=H05&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", MBC 라디오스타
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=M12&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", MBC Every1
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=M03&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", EDGETV
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=X01&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KBS JOY
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K04&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 런닝맨
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S16&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", TV CHOSUN2
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2602&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 연애의 참견
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K28&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", MBN 플러스
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2402&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", MBC 서프라이즈
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=M13&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", LIFETIME
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C5902&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", EBS 1
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=E01&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KBS 로코드라마
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K32&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", PLAYY 액션영화
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=H07&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", THE MOVIE
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=F2501&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 인디필름
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=F2601&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", ANIBOX
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C4401&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", ANIMAX
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=A01&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", PLAYY 웰메이드 영화
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=H01&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 채널A 플러스
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2502&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 순옥 명작관
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S19&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", FUNTV
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=X02&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", PLAYY 프리미엄 영화
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=H02&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 브라보키즈
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C6802&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 대교어린이TV
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=F1301&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KBS Life
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K05&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", iHQ 뚱TV
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C5203&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", JNG
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C8101&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", SBS Golf
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S05&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", MBC 예능정주행24 LIVE
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=M17&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", K팝스타
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S24&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KISS - 최신인기가요
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2701&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KISS - 당신을 위한 발라드
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2702&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KBS DRAMA
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K06&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KISS - 2000년대 인기가요
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2705&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 자이언트 펭TV
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=E18&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 채널W
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C3901&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 채널차이나
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C8401&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", MBC FM4U
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=M08&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", AsiaN
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C5101&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KISS - 탑골 K-POP
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2713&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 텔레노벨라
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C8701&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", EBS 키즈
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=E05&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 머니투데이방송
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=F4301&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KISS - 재즈 라운지
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2706&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", HISTORY
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C5901&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", AsiaM
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C5102&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", SBS 파워FM
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S07&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KISS - 8090인기가요
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2703&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", X맨
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S23&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", SBS Biz
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S06&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", TVasia Plus
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=F5601&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KISS - 명품 클래식
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2708&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 미우새
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S17&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 슈퍼맨이 돌아왔다
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K124&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 가톨릭평화방송
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=F0701&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KBSCOOLFM
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K08&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 국회방송
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=F3301&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", SmileTV Plus
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=F5602&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", MBC 표준 FM
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=M07&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KISS - 키스 더 트롯
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2710&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KISS - 한국인이 사랑한 팝송
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2709&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", GS SHOP
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C4201&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KISS - K-POP 차트쇼
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2711&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", GS MY SHOP
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C4202&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", ALL THE K-POP
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=M10&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", SBS 러브FM
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S08&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", JBOX
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=F4601&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 롯데홈쇼핑
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C5601&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", EBS 2
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=E07&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 신세계TV쇼핑
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C4801&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", SBS MTV
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S09&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 폴라리스TV
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C6901&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", SBS Nick
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S10&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KBS1RADIO
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K07&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 동아TV
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C7301&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", NS SHOP+
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C8302&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 한국경제TV
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=F2101&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", NS홈쇼핑
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C8301&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", BTN
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=F0501&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 롯데홈쇼핑 ONETV
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C5602&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", THE K-POP
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S14&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 블렌딩 뮤직비디오
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C7801&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", TBS FM LIVE
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C4501&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", CCTV4
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K12&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KISS - Dog & Mom
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2707&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", CTS기독교TV
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=F0601&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", 매일경제TV
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=F2001&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KISS - 8090 히트팝
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2712&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", EBS FM
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=E06&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", Discovery
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C4001&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", YTN 라디오
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=C2107&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", CGTN
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K25&q=default&apikey=EGD5IMVCPE
