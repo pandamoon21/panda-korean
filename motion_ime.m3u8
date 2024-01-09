@@ -37,8 +37,14 @@ http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=tving&i=C15741&q=defaul
 #EXTINF:-1 tvg-id="tving|C22041" tvg-name="JTBC4" tvg-logo="https://cdn.discordapp.com/attachments/810374007936909314/943069826933473300/image.jpg" group-title="여성/패션" tvg-chno="88" tvh-chnum="88",JTBC4
 http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=tving&i=C22041&q=default&apikey=E2463AYGR0
 
-#EXTINF:-1 tvg-id="wavve|S01" tvg-name="SBS" tvg-logo="https://cdn.discordapp.com/attachments/810374036713373717/943067994026835978/image.jpg" group-title="지상파" tvg-chno="5" tvh-chnum="5",SBS
-http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=wavve&i=S01&q=default&apikey=E2463AYGR0
+#EXTINF:-1 group-title="Korean", SBS Plus
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S03&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", SBS funE
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S04&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", SBS Fil
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=S22&q=default&apikey=EGD5IMVCPE
 
 #EXTINF:-1 tvg-id="wavve|M03" tvg-name="MBC Every1" tvg-logo="https://cdn.discordapp.com/attachments/810373981743349771/943068849400602644/image.jpg" group-title="예능" tvg-chno="29" tvh-chnum="29",MBC Every1
 http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=wavve&i=M03&q=default&apikey=E2463AYGR0
