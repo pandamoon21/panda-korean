@@ -78,3 +78,9 @@ http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=wavve&i=M16&q=default&a
 
 #EXTINF:-1 tvg-id="wavve|M17" tvg-name="MBC 예능정주행24 LIVE" tvg-logo="https://cdn.discordapp.com/attachments/794660420337926194/943070861169135646/image.jpg" group-title="VOD" tvg-chno="1107" tvh-chnum="1107",MBC 예능정주행24 LIVE
 http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=wavve&i=M17&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 group-title="Korean", KBS 1TV
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K01&q=default&apikey=EGD5IMVCPE
+
+#EXTINF:-1 group-title="Korean", KBS 2TV
+http://twotip.iptime.org:9999//klive/api/url.m3u8?m=url&s=wavve&i=K02&q=default&apikey=EGD5IMVCPE
