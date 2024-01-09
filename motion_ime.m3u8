@@ -1,0 +1,74 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tving|C00551" tvg-name="tvN" tvg-logo="https://cdn.discordapp.com/attachments/810374023044661249/943068814055182356/image.jpg" group-title="예능" tvg-chno="3" tvh-chnum="3",tvN
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="tving|C51258" tvg-name="tvN STORY" tvg-logo="https://cdn.discordapp.com/attachments/810373899694899200/943069834172842025/image.jpg" group-title="여성/패션" tvg-chno="78" tvh-chnum="78",tvN STORY
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=tving&i=C51258&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="tving|C01143" tvg-name="tvN DRAMA" tvg-logo="https://cdn.discordapp.com/attachments/796558698650533898/943068865666109520/image.jpg" group-title="예능" tvg-chno="80" tvh-chnum="80",tvN DRAMA
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=tving&i=C01143&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="tving|C01141" tvg-name="tvN SHOW" tvg-logo="https://cdn.discordapp.com/attachments/810373935358803989/943068967231168532/image.jpg" group-title="예능" tvg-chno="42" tvh-chnum="42",tvN SHOW
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=tving&i=C01141&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="TVChosun.kr",TV Chosun (720p)
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVChosun2.kr",TV Chosun 2 (720p)
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvN.kr",tvN Asia (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+
+#EXTINF:-1 tvg-id="tvNMoviesAsia.hk",tvN Movies (Indonesian Subtitle) (576p)
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+
+#EXTINF:-1 tvg-id="tving|C00579" tvg-name="Mnet" tvg-logo="https://cdn.discordapp.com/attachments/796558011736784966/943069059581370368/image.jpg" group-title="음악" tvg-chno="22" tvh-chnum="22",Mnet
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="tving|C01582" tvg-name="JTBC" tvg-logo="https://cdn.discordapp.com/attachments/810373953524465664/943068026260049970/image.jpg" group-title="종합편성" tvg-chno="15" tvh-chnum="15",JTBC
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="tving|C15741" tvg-name="JTBC2" tvg-logo="https://cdn.discordapp.com/attachments/796558602306453525/943068857613037578/image.jpg" group-title="예능" tvg-chno="40" tvh-chnum="40",JTBC2
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=tving&i=C15741&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="tving|C22041" tvg-name="JTBC4" tvg-logo="https://cdn.discordapp.com/attachments/810374007936909314/943069826933473300/image.jpg" group-title="여성/패션" tvg-chno="88" tvh-chnum="88",JTBC4
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=tving&i=C22041&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="wavve|S01" tvg-name="SBS" tvg-logo="https://cdn.discordapp.com/attachments/810374036713373717/943067994026835978/image.jpg" group-title="지상파" tvg-chno="5" tvh-chnum="5",SBS
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=wavve&i=S01&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="wavve|M03" tvg-name="MBC Every1" tvg-logo="https://cdn.discordapp.com/attachments/810373981743349771/943068849400602644/image.jpg" group-title="예능" tvg-chno="29" tvh-chnum="29",MBC Every1
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=wavve&i=M03&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="wavve|M02" tvg-name="MBC Drama" tvg-logo="https://cdn.discordapp.com/attachments/796558698650533898/943068178987221012/image.jpg" group-title="드라마" tvg-chno="35" tvh-chnum="35",MBC Drama
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=wavve&i=M02&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="wavve|M14" tvg-name="MBC ON" tvg-logo="https://cdn.discordapp.com/attachments/796558497247657994/943068318636576768/image.jpg" group-title="드라마" tvg-chno="69" tvh-chnum="69",MBC ON
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=wavve&i=M14&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="wavve|M06" tvg-name="MBC M" tvg-logo="https://cdn.discordapp.com/attachments/810373935358803989/943069066397122590/image.jpg" group-title="음악" tvg-chno="157" tvh-chnum="157",MBC M
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=wavve&i=M06&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="wavve|PM1" tvg-name="MBC 무한도전" tvg-logo="https://cdn.discordapp.com/attachments/796558350489354311/943070801589067776/image.jpg" group-title="VOD" tvg-chno="1101" tvh-chnum="1101",MBC 무한도전
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=wavve&i=PM1&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="wavve|PM2" tvg-name="MBC 나 혼자 산다" tvg-logo="https://cdn.discordapp.com/attachments/796558497247657994/943070811319840779/image.jpg" group-title="VOD" tvg-chno="1102" tvh-chnum="1102",MBC 나 혼자 산다
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=wavve&i=PM2&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="wavve|M12" tvg-name="MBC 라디오스타" tvg-logo="https://cdn.discordapp.com/attachments/796558698650533898/943070823395242044/image.jpg" group-title="VOD" tvg-chno="1103" tvh-chnum="1103",MBC 라디오스타
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=wavve&i=M12&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="wavve|M13" tvg-name="MBC 서프라이즈" tvg-logo="https://cdn.discordapp.com/attachments/810374085523013642/943070833956499487/image.jpg" group-title="VOD" tvg-chno="1104" tvh-chnum="1104",MBC 서프라이즈
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=wavve&i=M13&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="wavve|M15" tvg-name="MBC 하이킥24 LIVE" tvg-logo="https://cdn.discordapp.com/attachments/796558602306453525/943070842026328104/image.jpg" group-title="VOD" tvg-chno="1105" tvh-chnum="1105",MBC 하이킥24 LIVE
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=wavve&i=M15&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="wavve|M16" tvg-name="MBC 드라마정주행24 LIVE" tvg-logo="https://cdn.discordapp.com/attachments/810374036713373717/943070852113657866/image.jpg" group-title="VOD" tvg-chno="1106" tvh-chnum="1106",MBC 드라마정주행24 LIVE
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=wavve&i=M16&q=default&apikey=E2463AYGR0
+
+#EXTINF:-1 tvg-id="wavve|M17" tvg-name="MBC 예능정주행24 LIVE" tvg-logo="https://cdn.discordapp.com/attachments/794660420337926194/943070861169135646/image.jpg" group-title="VOD" tvg-chno="1107" tvh-chnum="1107",MBC 예능정주행24 LIVE
+http://94nagi.iptime.org:2707/klive/api/url.m3u8?m=url&s=wavve&i=M17&q=default&apikey=E2463AYGR0
